@@ -96,7 +96,7 @@ addr value
 
 ## 参考
 
-- [算法09 五大查找之：哈希查找 - nnngu - 博客园[(https://www.cnblogs.com/nnngu/p/8307743.html#autoid-0-0-0)
+- [算法09 五大查找之：哈希查找 - nnngu - 博客园](https://www.cnblogs.com/nnngu/p/8307743.html#autoid-0-0-0)
 
 
 
