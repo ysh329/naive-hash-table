@@ -19,6 +19,7 @@ int get_address(const hash_table_t *t, const int key);
 
 hash_table_t* init_hash_table(const int table_length)
 {
+    assert(table_length > 0);
     hash_table_t *table = calloc(1, sizeof(hash_table_t));
     table->length = table_length;
     table->data = calloc(table_length, sizeof(int));
