@@ -1,9 +1,23 @@
 # naive-hash-table
 C naive hash table
 
+- OS: Windows 10 64bit
+- IDE: CodeBlock
+- MingW32
+
 ## Compile
 
 ignored.
+
+```shell
+-------------- Build: Release in hash (compiler: GNU GCC Compiler)---------------
+
+mingw32-gcc.exe -Wall -O2  -c F:\Codeblock\hash\hash\hash.c -o obj\Release\hash.o
+mingw32-g++.exe  -o bin\Release\hash.exe obj\Release\hash.o  -s  
+Output file is bin\Release\hash.exe with size 21.00 KB
+Process terminated with status 0 (0 minute(s), 0 second(s))
+0 error(s), 0 warning(s) (0 minute(s), 0 second(s))
+```
 
 ## Execution
 
